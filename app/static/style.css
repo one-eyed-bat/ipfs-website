@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url('../templates/images/bg-home.jpg');
+    background-image: url('images/bg-home.jpg');
     background-size: cover;
     color: lightblue;
     line-height: 5;
@@ -9,7 +9,7 @@ body {
 
 
 header {
-
+    background-image: url('images/Bat-logo.jpg')
     color: blue;
     text-align: center;
     padding: 0px;
@@ -20,7 +20,7 @@ header h1 {
 }
 
 header p {
-    color: lightblue;
+
 
 }
 
@@ -60,7 +60,6 @@ section p {
     display: block;
     margin-top: 10px;
     text-decoration: none;
-    background-color: lightblue;
     color: #fff;
     padding: 8px 16px;
     border-radius: 4px;
